@@ -1,0 +1,22 @@
+🎬 YouTube Script for Termux Automator Pro
+
+Title: Turn Your Android into a Developer Beast with Termux Automator Pro
+
+Intro:
+- "Welcome back developers! Today, I'm introducing you to a tool that will supercharge your Termux game."
+
+Demo:
+- Run the installer
+- Show the cool interface
+- Explain each feature:
+    - Install Dev Tools
+    - Build Web Projects (HTML/React)
+    - Create Tunnels with Ngrok
+    - Customize Termux UI
+    - Encrypt/Decrypt files
+    - View Device Info & Run Plugins
+
+Outro:
+- "Made by Edun Oluwadarasimi David of Smart Tech Programming."
+- "Find the download link in the description. Don't forget to like and subscribe for more Dev Hacks!"
+

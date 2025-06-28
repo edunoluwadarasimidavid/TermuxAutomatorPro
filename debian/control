@@ -1,0 +1,8 @@
+Package: termux-automator-pro
+Version: 2.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Edun Oluwadarasimi David <davidedun2010@gmail.com>
+Description: Termux Automator Pro by Smart Tech Programming.
+ A powerful command-line toolkit for automating Android dev tasks.

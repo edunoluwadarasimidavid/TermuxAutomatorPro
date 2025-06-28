@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "✅ Termux Automator Pro installed successfully! Run using: automator-pro"
